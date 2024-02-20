@@ -1,11 +1,12 @@
-# Halo semua! 
+# Hi everyone!
 
-Perkenalkan nama saya **Rizky Rizaldi Kurniawan**.<br>
+Let me introduce myself, my name is **Rizky Rizaldi Kurniawan**.<br>
 
-Saya seorang **Mahasiswa** S1 Teknik Informatika.<br>
+I am a **Student** of Informatics Engineering.<br>
 
-Saya sangat antusias dalam pengembangan Website serta telah memiliki pengalaman dalam bidang tersebut. <br>
+I am very enthusiastic about developing websites and have experience in this field. <br>
 
-Saya juga pekerja keras dan tidak mudah menyerah, hal ini terbukti dengan nilai memuaskan yang saya peroleh pada setiap semesternya.<br>
+I am also a hard worker and don't give up easily, this is proven by the satisfactory grades I get every semester.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://bit.ly/Instagramrizaldikurniawan)ku ya.
+If you are interested in getting to know me, please follow my [Instagram](https://bit.ly/Instagramrizaldikurniawan) account.
+
